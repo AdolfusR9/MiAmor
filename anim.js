@@ -23,7 +23,7 @@ var lyricsData = [
   { text: "Everyone", <br> "Todos", time: 55  },
   { text: "Ooh, pulls away", <br> "Se alejan", time: 58 },
   { text: "From you", <br> "De ti", time: 62 },
-   { text: "..." time: 64  },
+   { text: "...", time: 64  },
   { text: "Got balls of steel", <br> "Tienes bolas de acero", time: 95 },
   { text: "Got an automobile", <br> "Tienes un automóvil", time: 97 },
   { text: "For a minimum wage", <br>: "Por un salario mínimo", time: 99 },
