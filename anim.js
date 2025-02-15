@@ -7,7 +7,7 @@ var lyrics = document.querySelector("#lyrics");
 var lyricsData = [
   { text: "Hello again, friend of a friend<br>Hola de nuevo, amigo de un amigo", time: 17 },
   { text: "I knew you when<br>Te conocía antes", time: 21 },
-  { text: "Our common goal<br>Nuestro objetivo común", time: 23 },
+  { text: "Our common goal<br>Nuestro objetivo común", time: 22 },
   { text: "Was waiting for<br>Era esperar", time: 26 },
   { text: "The world to end<br>A que el mundo terminara", time: 18 },
   { text: "Now that the truth<br>Ahora que la verdad", time: 32 },
