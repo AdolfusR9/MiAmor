@@ -50,21 +50,6 @@ body {
   animation: fadeIn 3s ease-in-out forwards;
   text-align: center;
 }
-.titulo {
-  font-size: 2.5em; /* Grande */
-  text-align: center;
-  color: yellow;
-}
-
-.carta {
-  font-size: 1.1em; /* Más pequeño que el título */
-  line-height: 1.6;
-  text-align: justify; /* opcional: para que se vea más ordenado */
-  color: white; /* o el color que prefieras */
-  margin: 0 auto;
-  max-width: 800px; /* para que no quede muy ancho */
-}
-
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -1673,3 +1658,4 @@ h1 {
 
 
 /* Agregar más estilos según sea necesario */
+
